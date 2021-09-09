@@ -27,17 +27,17 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
+              I love Chess and I have also participated in many  
               with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  International & National level Chess Tournaments
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Quarantine Chess Battle and All India Chess League.</b>
               </i>
             </p>
           </Col>
