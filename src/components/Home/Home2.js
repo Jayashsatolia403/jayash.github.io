@@ -27,8 +27,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              I love Chess and I have also participated in many  
-              with <b className="purple">Node.js</b> and
+              I have also participated in many  
               <i>
                 <b className="purple">
                   {" "}
