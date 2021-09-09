@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJava,
   DiHtml5,
@@ -9,7 +8,6 @@ import {
   DiGit,
   DiPostgresql,
   DiCss3,
-  DiLinux,
 } from "react-icons/di";
 
 import {RiFlutterLine} from 'react-icons/ri';
