@@ -33,7 +33,7 @@ function Resume() {
               "Hosted Complete API on Heroku Cloud Service.",
               "Exposure : Python 3 | Django | PostgreSQL | Git | HTML | CSS | JS | Docker"]}
             />
-            <Button variant="primary" href="https://github.com" target="_blank">
+            <Button variant="primary" href="https://github.com/projects" target="_blank">
               <BiLinkExternal /> &nbsp;
               {"View Project"}
             </Button>
@@ -48,7 +48,7 @@ function Resume() {
               "Used ReactJS, HTML, CSS and JS to build Frontend of Game.",
               "Exposure : Python 3 | Django | Postgresql | Git | React | Webrtc"]}
             />
-            <Button variant="primary" href="https://github.com" target="_blank">
+            <Button variant="primary" href="https://github.com/projects" target="_blank">
               <BiLinkExternal /> &nbsp;
               {"View Project"}
             </Button>
@@ -67,7 +67,7 @@ function Resume() {
               "Utilized PostgreSQL DB to build Webapp’s Database Model.",
               "Exposure : Python 3 | Django | PostgreSQL | Git | HTML | CSS | JS | Docker"]}
             />
-            <Button variant="primary" href="https://github.com" target="_blank">
+            <Button variant="primary" href="https://github.com/projects" target="_blank">
               <BiLinkExternal /> &nbsp;
               {"View Project"}
             </Button>
