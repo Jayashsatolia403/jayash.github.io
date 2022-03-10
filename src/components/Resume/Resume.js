@@ -21,6 +21,17 @@ function Resume() {
         <Row className="resume">
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
+
+            <Resumecontent
+              title="EMPOWERNET MENTORSHIP"
+              date="Feb 2022 - Present"
+              content={[
+                "Empowernet is a digital platform that aims to connect young women from under resourced communities with college aged mentors globally, whose skillsets, experience, and interests are relevant to the mentee’s career and academic aspiration.",
+                "Implementing best mentor search, connecting them, scheduling meetings on video call, text and voice chat in the Backend API."
+              ]}
+            />
+
+
             <Resumecontent
               title="IIT BHU CHESS CLUB"
               date="Dec 2020 - Present"
@@ -48,10 +59,10 @@ function Resume() {
             <h3 className="resume-title">Achievements</h3>
             <Resumecontent
               title=""
-              content={["Selected in top 1% of Candidates in Summer of Bitcoin Qualification Round.",
-              "Won HacktoberFest T Shirt for Contributing to OSS.",
-              "Finalist of All India Chess League from IIT BHU Team.",
-              "Finalist of Quarantine Chess Battle from IIT BHU Team."]}
+              content={["Scored world rank of 2185 in Google Hashcode 2022.",
+              "Selected in top 1% of Candidates in Summer of Bitcoin Qualification Round.",
+              "Qualified IIT JEE (India’s hardest engineering entrance exam).",
+              "Finalist of All India Chess League from IIT BHU Team & Quarantine Chess Battle."]}
             />
           </Col>
         </Row>
