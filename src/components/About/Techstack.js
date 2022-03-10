@@ -8,7 +8,6 @@ import {
   DiGit,
   DiPostgresql,
   DiCss3,
-  Algorithmic,
 } from "react-icons/di";
 
 import {RiFlutterLine} from 'react-icons/ri';
@@ -19,9 +18,6 @@ function Techstack() {
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <Algorithmic />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
